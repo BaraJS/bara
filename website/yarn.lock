@@ -2076,9 +2076,9 @@ dir-glob@2.0.0:
     arrify "^1.0.1"
     path-type "^3.0.0"
 
-docusaurus@^1.14.0:
+docusaurus@1.14.0:
   version "1.14.0"
-  resolved "https://registry.npmjs.org/docusaurus/-/docusaurus-1.14.0.tgz#081b931098fcb0a9e837fe3e4851815c607cd632"
+  resolved "https://registry.yarnpkg.com/docusaurus/-/docusaurus-1.14.0.tgz#081b931098fcb0a9e837fe3e4851815c607cd632"
   integrity sha512-wdjdAQAk6Ndypl0F3BIg/EUtYgSCxN9g90KbZ+BkObs0Haz62ehCGPeCNqv97m88YVaYbFzk3geQk1jL77gz5g==
   dependencies:
     "@babel/core" "^7.6.2"
