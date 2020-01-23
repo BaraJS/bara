@@ -34,7 +34,7 @@
     "dev": "concurrently --kill-others \"yarn test:watch\" \"yarn lint:watch\" \"yarn compile:watch\" "
   },
   "devDependencies": {
-    "@types/jest": "24.0.18",
+    "@types/jest": "24.9.1",
     "concurrently": "4.1.2",
     "npm-watch": "0.6.0",
     "prettier": "1.18.2",
